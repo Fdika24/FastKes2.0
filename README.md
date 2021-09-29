@@ -4,6 +4,10 @@
 
 Fastkes is basically Gojek for Ambulance
 
+## Architecture Pattern
+
+Clean Architecture, MVVM+Coordinator Pattern.
+
 ## What are the technologies?
 
 1. Swift
@@ -13,4 +17,4 @@ Fastkes is basically Gojek for Ambulance
 5. CoreLocation
 
 ## Why RxSwift?
-The purpose of this project is to study functional reactive programming it self for future projects
+The purpose of this project is to study functional reactive programming and coordinator. If you're asking isnt it overkill? yes, yes it is.
